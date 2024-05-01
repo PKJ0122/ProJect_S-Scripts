@@ -1,0 +1,20 @@
+public enum NodeKind
+{
+    CoinPlusNode,
+    CoinRouletteNode,
+    ExchangeNode,
+    ForcedPurchaseNode,
+    HealNode,
+    ItemDonationNode,
+    ItemPaymentNode,
+    MinigameNode,
+    PossessionNode,
+    TrapNode,
+    SeizureNode,
+    ShopNode,
+    VolunteerNode,
+    CrossroadNode,
+    StarNode,
+    ArmoryNode,
+    WarpNode
+}
